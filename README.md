@@ -1,6 +1,6 @@
 # CMSC420_SPOJ_problems
 
-My solutions for SPOJ problems for the UMD CS class CMSC420.
+My solutions for SPOJ problems for the UMD Class CMSC420(Advanced Data Structures and Algorithms).
 
 Problems:
 1) [ARRAYSUB](https://www.spoj.com/problems/ARRAYSUB/)
